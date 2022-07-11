@@ -1,0 +1,45 @@
+{
+    "crNumber": 5369,
+    "type": "External Communication (NCD)",
+    "title": "05369 - TestChangeRequest",
+    "description": "1. Discussed and agreed with all (please list the names of the colleagues)?\n2. Bug fix or new feature?\n3. Which feature (customer relevant) is affected?\n4. Consequences if the CR is not implemented?\n5. SOP relevant for the model line?\n6. Are other CRs involved?  (please list the CR numbers)?\n7. For which EE-platform is it needed: STAR 3/ STAR 35/ both?",
+    "owner": "shaqures",
+    "representatives": null,
+    "changes": [
+        {
+            "changeNumber": 2,
+            "title": "TestCCNew",
+            "comment": "",
+            "newSwc": {
+                "name": "BestCCNew",
+                "externalUuid": null,
+                "xdisUuid": null,
+                "arUuid": null,
+                "xdisObjectId": null,
+                "descEn": null,
+                "descDe": null,
+                "shortDescEn": null,
+                "shortDescDe": null,
+                "level": null,
+                "descriptionEN": null,
+                "descriptionDE": null,
+                "shortDescriptionEN": null,
+                "shortDescriptionDE": null
+            },
+            "responsibleExpertUserId": null,
+            "representativeExpertUserIds": [],
+            "responsibleApproverUserId": null,
+            "representativeApproverUserIds": [],
+            "ecuCompositions": [],
+            "systemCompositions": [],
+            "vehicleCompositions": []
+        },
+        {
+            "changeNumber": 1,
+            "title": "TestFreeFormatChange",
+            "comment": null,
+            "changeDescription": "TestFreeFormatChangeTestFreeFormatChangeTestFreeFormatChange"
+        }
+    ],
+    "crType": "External Communication (NCD)"
+}
